@@ -1,0 +1,5 @@
+#addition
+a+b=c
+
+#multiplication
+a*b=c
