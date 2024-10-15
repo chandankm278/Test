@@ -1,8 +1,0 @@
-#addition
-a+b=c
-
-#multiplication
-a*b=c
-
-divison new feature
-a/b=c
